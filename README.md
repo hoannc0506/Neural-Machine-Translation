@@ -1,4 +1,4 @@
-# Low-Resource Machine translation (En-to-Vi)
+# Machine translation (En-to-Vi)
 
 ## Dataset
 - IWSLT’15 English-Vietnamese
@@ -6,3 +6,8 @@
 
 ## Methodology
 - mBART50
+
+## Results
+
+## To-Do
+- [ ] Public model
