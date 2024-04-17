@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+wandb/
+__pycache__/
+*/__pycache__/
+notebooks/
+mbart50-en-vi
